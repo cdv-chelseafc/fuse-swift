@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
   name: "Fuse",
   platforms: [
-    .iOS(.v13),
+    .iOS(.v14),
     .macOS(.v10_13)
   ],
   products: [
